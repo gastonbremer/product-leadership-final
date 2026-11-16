@@ -1,4 +1,4 @@
-# Product Strategy & OKRs
+# Product Strategy & OKRs (Test)
 
 > Module 1 · Write a Strategy That Can Survive a Test
 
